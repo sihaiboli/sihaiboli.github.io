@@ -1,0 +1,12 @@
+# Site settings
+title: 四海玻璃
+email: cnnqjban521@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sihaiboli.github.io" # the base hostname & protocol for your site
+
+twitter_username: zyh
+github_username: zyh
+
+# Build settings
+markdown: kramdown
